@@ -1,0 +1,9 @@
+{
+	"name": "air3",
+	"license": "BSD",
+	"url": "https://github.com/sh-dave/haxe-air3",
+	"version": "3.2.0",
+	"contributors": ["jan_flanders"],
+	"description": "Externs for Adobe AIR 3.2",
+	"releasenote": "haxe3 compatible version of air 3.2 lib"
+}
